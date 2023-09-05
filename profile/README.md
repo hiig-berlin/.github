@@ -3,6 +3,7 @@ Please find here an overview of HIIG’s open source projects.
 ## Projects maintained by HIIG
 
 – [Frontend](https://github.com/hiig-berlin/piai-frontend) to [publicinterest.ai](https://publicinterest.ai)
+- [KI Experimente](https://github.com/hiig-berlin/ki-experimente)
 
 ## Projects from the HIIG team
 
